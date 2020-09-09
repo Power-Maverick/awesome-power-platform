@@ -1,22 +1,27 @@
 # Awesome Power Platform
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 > A collection of awesome things regarding the Power Platform ecosystem.
 
+![Header](/images/header.jpg)
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[Don't miss out! Subscribe to our weekly newsletter](https://bit.ly/PPDevNewsletter)
+
 - [Awesome Power Platform](#awesome-power-platform)
-  - [Environment for learning Power Platform](#environment-for-learning-power-platform)
-  - [Power Apps](#power-apps)
+  - [🌎 Environment for learning Power Platform](#-environment-for-learning-power-platform)
+  - [⚡ Power Apps](#-power-apps)
     - [Forums](#forums)
     - [Power Apps Component Framework (PCF)](#power-apps-component-framework-pcf)
-  - [Power Automate](#power-automate)
-  - [Power BI](#power-bi)
-  - [Power Virtual Agents](#power-virtual-agents)
-  - [Contribute](#contribute)
+  - [🐱‍🏍 Power Automate](#-power-automate)
+  - [🤳 Power BI](#-power-bi)
+  - [🤖 Power Virtual Agents](#-power-virtual-agents)
+  - [➕ Contribute](#-contribute)
+  - [🐛 Found an issue](#-found-an-issue)
 
 ---
 
-## Environment for learning Power Platform
+## 🌎 Environment for learning Power Platform
 
 Sign up for the [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) and setup Microsoft 365 dev subscription.
 
@@ -32,7 +37,7 @@ Using the username and domain created for Microsoft 365 dev subscription, you ca
 
 Both Power Apps Plan Trial and Power Apps Community Plan are free, but are created for different purposes. Details [here](https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan#whats-the-difference-between-power-apps-plan-trial-and-power-apps-community-plan-and-which-one-should-i-sign-up-for).
 
-## Power Apps
+## ⚡ Power Apps
 
 ### Forums
 
@@ -52,24 +57,31 @@ Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums
 
 ---
 
-## Power Automate
+## 🐱‍🏍 Power Automate
 
 More to come
 
 ---
 
-## Power BI
+## 🤳 Power BI
 
 More to come
 
 ---
 
-## Power Virtual Agents
+## 🤖 Power Virtual Agents
 
 More to come
 
 ---
 
-## Contribute
+## ➕ Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## 🐛 Found an issue
+
+Two ways to notify.
+
+- Submit Pull Request, but first read [contribution guidelines](contributing.md)
+- Create an [issue](https://github.com/Power-Maverick/awesome-power-platform/issues/new?template=bug_report.md)
