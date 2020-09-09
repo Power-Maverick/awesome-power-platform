@@ -1,12 +1,10 @@
+![Header](/images/header.jpg)
+
 # Awesome Power Platform
 
 > A collection of awesome things regarding the Power Platform ecosystem.
 
-![Header](/images/header.jpg)
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-[Don't miss out! Subscribe to our weekly newsletter](https://bit.ly/PPDevNewsletter)
 
 - [Awesome Power Platform](#awesome-power-platform)
   - [🌎 Environment for learning Power Platform](#-environment-for-learning-power-platform)
@@ -16,6 +14,7 @@
   - [🐱‍🏍 Power Automate](#-power-automate)
   - [🤳 Power BI](#-power-bi)
   - [🤖 Power Virtual Agents](#-power-virtual-agents)
+  - [📰 Newsletters](#-newsletters)
   - [➕ Contribute](#-contribute)
   - [🐛 Found an issue](#-found-an-issue)
 
@@ -72,6 +71,13 @@ More to come
 ## 🤖 Power Virtual Agents
 
 More to come
+
+---
+
+## 📰 Newsletters
+
+- [Dynamics Weekly](https://www.dynamicsweekly.com/)
+- [Power Platform Developers Weekly](https://www.powerplatformdevelopersweekly.com/)
 
 ---
 
