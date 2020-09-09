@@ -81,7 +81,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## 🐛 Found an issue
 
-Two ways to notify.
+Two ways to help.
 
 - Submit Pull Request, but first read [contribution guidelines](contributing.md)
 - Create an [issue](https://github.com/Power-Maverick/awesome-power-platform/issues/new?template=bug_report.md)
