@@ -10,10 +10,16 @@
   - [🌎 Environment for learning Power Platform](#-environment-for-learning-power-platform)
   - [⚡ Power Apps](#-power-apps)
     - [Forums](#forums)
+    - [Important Links, Tools & More](#important-links-tools--more)
     - [Power Apps Component Framework (PCF)](#power-apps-component-framework-pcf)
+      - [Installations](#installations)
+      - [PCF: Important Links, Tools & More](#pcf-important-links-tools--more)
   - [🐱‍🏍 Power Automate](#-power-automate)
+    - [Forums](#forums-1)
   - [🤳 Power BI](#-power-bi)
+    - [Forums](#forums-2)
   - [🤖 Power Virtual Agents](#-power-virtual-agents)
+    - [Forums](#forums-3)
   - [📰 Newsletters](#-newsletters)
   - [➕ Contribute](#-contribute)
   - [🐛 Found an issue](#-found-an-issue)
@@ -38,6 +44,8 @@ Both Power Apps Plan Trial and Power Apps Community Plan are free, but are creat
 
 ## ⚡ Power Apps
 
+Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs.
+
 ### Forums
 
 Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums/ct-p/PA_Comm_Forums).
@@ -46,38 +54,84 @@ Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums
 - [Common Data Service](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/bd-p/CDS_Apps)
 - [Professional Dev](https://powerusers.microsoft.com/t5/Power-Apps-Pro-Dev-ISV/bd-p/pa_component_framework)
 - [Power Apps Portals](https://powerusers.microsoft.com/t5/Power-Apps-Portals/bd-p/PowerAppsPortals)
-- [Power Virtual Agents](https://powerusers.microsoft.com/t5/Forums/ct-p/pva_forums)
+
+### Important Links, Tools & More
+
+- [Sample Apps](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery) - Collection of all community built sample apps.
+- [Videos & Webniars](https://powerusers.microsoft.com/t5/Webinars-and-Video-Gallery/bd-p/VideoGallery) - Collection of community created videos & hosted webniars.
+- [Canvas Apps Components](https://powerusers.microsoft.com/t5/Canvas-Apps-Components-Samples/bd-p/ComponentsGallery) - Collection of canvas apps components that can be reused in your projects.
 
 ### Power Apps Component Framework (PCF)
 
-- Getting Started
-  1. Install the [Power Apps CLI](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/powerapps-cli#install-power-apps-cli), after confirming that you have the pre-requisites.
-  2. Goto to [PCF Gallery](https://pcf.gallery) to get inspired.
+#### Installations
+
+  1. [npm](https://nodejs.org/en/)
+  2. [.Net Framework 4.6.2 Developer Pack](https://dotnet.microsoft.com/download/dotnet-framework/net462)
+  3. [Visual Studio Code](https://code.visualstudio.com/Download)
+  4. [Power Apps CLI](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/powerapps-cli#install-power-apps-cli)
+
+#### PCF: Important Links, Tools & More
+
+- [PCF Gallery](https://pcf.gallery/) - PCF Gallery is a collection of controls created with the Power Apps Component Framework.
+- [PCF Builder for XrmToolBox](https://www.xrmtoolbox.com/plugins/Maverick.PCF.Builder/) - An XrmToolBox tool that provides a GUI for creating Code Components.
+- [PCF Builder for VS Code](https://marketplace.visualstudio.com/items?itemName=danish-naglekar.pcf-builder) - VS Code extension to help you execute Power Apps CLI commands with ease.
+- [Learn - PCF for model-driven apps](https://learn.develop1.net/courses/pcf-for-model-driven-apps) - A paid 16+ hours learning course on building code components for model-driven apps.
 
 ---
 
 ## 🐱‍🏍 Power Automate
 
-More to come
+Power Automate is a service that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data, and more.
+
+### Forums
+
+Register for Power Automate Forums [here](https://powerusers.microsoft.com/t5/Forums/ct-p/FL_Comm_Forums).
+
+- [General Power Automate Questions](https://powerusers.microsoft.com/t5/General-Power-Automate/bd-p/MPAForum)
+- [Connecting to Data/Connectors](https://powerusers.microsoft.com/t5/Connecting-To-Data/bd-p/ConnectingToData)
+- [Building Flows](https://powerusers.microsoft.com/t5/Building-Flows/bd-p/BuildingFlows)
+- [Using Flows](https://powerusers.microsoft.com/t5/Using-Flows/bd-p/UsingFlows)
+- [AI Builder](https://powerusers.microsoft.com/t5/AI-Builder/bd-p/AIBuilder)
 
 ---
 
 ## 🤳 Power BI
 
-More to come
+Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
+
+### Forums
+
+Register for Power BI Forums [here](https://community.powerbi.com/).
+
+- [Desktop App](https://community.powerbi.com/t5/Desktop/bd-p/power-bi-designer)
+- [Web App](https://community.powerbi.com/t5/Service/bd-p/power-bi-web-app)
+- [On-Prem Report Server](https://community.powerbi.com/t5/Report-Server/bd-p/ReportServer)
+- [Power Query](https://community.powerbi.com/t5/Power-Query/bd-p/power-bi-services)
+- [Extend Power Bi - Developer](https://community.powerbi.com/t5/Power-Query/bd-p/power-bi-services)
+- [DAX Commands](https://community.powerbi.com/t5/DAX-Commands-and-Tips/bd-p/DAXCommands)
 
 ---
 
 ## 🤖 Power Virtual Agents
 
-More to come
+Power Virtual Agents allows you to easily create your bot, and embed it into your website with just a few clicks.
+
+### Forums
+
+Register for Power Virtual Agents Forums [here](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity).
+
+- [General](https://powerusers.microsoft.com/t5/General/bd-p/pva_general)
+- [Topic Management](https://powerusers.microsoft.com/t5/Topic-Creation-Management/bd-p/pva_topic-management)
+- [Calling Actions](https://powerusers.microsoft.com/t5/Calling-Actions-from-PVA/bd-p/pva_calling-actions)
+- [Channel Management](https://powerusers.microsoft.com/t5/Publish-Channel-Management/bd-p/pva_publish)
+- [Bot Extensibility](https://powerusers.microsoft.com/t5/Bot-Extensibility/bd-p/pva_pro-dev-bot)
 
 ---
 
 ## 📰 Newsletters
 
-- [Dynamics Weekly](https://www.dynamicsweekly.com/)
-- [Power Platform Developers Weekly](https://www.powerplatformdevelopersweekly.com/)
+- [Dynamics Weekly](https://www.dynamicsweekly.com/) - Weekly emails with overall list of articles and resources
+- [Power Platform Developers Weekly](https://www.powerplatformdevelopersweekly.com/) - Weekly emails with list of articles and resources focused for Developers
 
 ---
 
