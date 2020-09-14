@@ -35,7 +35,7 @@
 ## 💬 General
 
 - [Community Mentorship Program](https://techcommunity.microsoft.com/t5/community-mentors-program/community-mentors-program-faqs/m-p/170779) - Log into your app, select your favorite mentor and get connected.
-- [XrmToolBox](https://www.xrmtoolbox.com/)
+- [XrmToolBox](https://www.xrmtoolbox.com/) - An application that provides tons of tools to simply management of your processes.
 
 ## 🌎 Environment for learning Power Platform
 
