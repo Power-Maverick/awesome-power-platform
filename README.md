@@ -1,12 +1,18 @@
+<!-- markdown-link-check-disable -->
 ![Header](/images/header.jpg)
 
-# Awesome Power Platform
+# Power List
 
 > A collection of awesome things regarding the Power Platform ecosystem.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- [Awesome Power Platform](#awesome-power-platform)
+![Check Links](https://github.com/Power-Maverick/awesome-power-platform/workflows/Check%20Links/badge.svg)
+
+<!-- markdown-link-check-enable -->
+
+- [Power List](#power-list)
+  - [💬 General](#-general)
   - [🌎 Environment for learning Power Platform](#-environment-for-learning-power-platform)
   - [⚡ Power Apps](#-power-apps)
     - [Forums](#forums)
@@ -25,6 +31,11 @@
   - [🐛 Found an issue](#-found-an-issue)
 
 ---
+
+## 💬 General
+
+- [Community Mentorship Program](https://techcommunity.microsoft.com/t5/community-mentors-program/community-mentors-program-faqs/m-p/170779) - Log into your app, select your favorite mentor and get connected.
+- [XrmToolBox](https://www.xrmtoolbox.com/)
 
 ## 🌎 Environment for learning Power Platform
 
@@ -60,6 +71,8 @@ Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums
 - [Sample Apps](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery) - Collection of all community built sample apps.
 - [Videos & Webniars](https://powerusers.microsoft.com/t5/Webinars-and-Video-Gallery/bd-p/VideoGallery) - Collection of community created videos & hosted webniars.
 - [Canvas Apps Components](https://powerusers.microsoft.com/t5/Canvas-Apps-Components-Samples/bd-p/ComponentsGallery) - Collection of canvas apps components that can be reused in your projects.
+- [Training Courses - 365 Training](https://www.365.training/Courses/Category/powerapps) - All courses related to Power Apps provided by 365.training
+- [Training Cources - Shane Young](https://training.powerapps911.com/) - All courses related to Power Apps provided by Shane Young
 
 ### Power Apps Component Framework (PCF)
 
