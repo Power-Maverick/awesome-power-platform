@@ -69,6 +69,7 @@ Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums
 ### Important Links, Tools & More
 
 - [Sample Apps](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery) - Collection of all community built sample apps.
+<!-- markdown-link-check-disable-next-line -->
 - [Videos & Webniars](https://powerusers.microsoft.com/t5/Webinars-and-Video-Gallery/bd-p/VideoGallery) - Collection of community created videos & hosted webniars.
 - [Canvas Apps Components](https://powerusers.microsoft.com/t5/Canvas-Apps-Components-Samples/bd-p/ComponentsGallery) - Collection of canvas apps components that can be reused in your projects.
 - [Training Courses - 365 Training](https://www.365.training/Courses/Category/powerapps) - All courses related to Power Apps provided by 365.training
