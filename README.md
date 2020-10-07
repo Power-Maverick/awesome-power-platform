@@ -52,9 +52,18 @@
 - [Licensing Docs](https://docs.microsoft.com/en-us/microsoft-365/community/powerplatformlicensingforcitizendeveloper) - Understanding Power Platform Licensing.
 - [Power Platform Guidance Docs](https://aka.ms/PowerPlatformGuidance) - Offical MS guidance docs that gets you started on Power Platform
 - [Power Platform Training Materials](https://powerusers.microsoft.com/t5/News-Announcements/Power-Platform-Training-Materials/ba-p/342088) - Offical post that contains links to various training materials.
+- [Center of Excellence starter kit](https://aka.ms/coestarterkit) - Center of Excellence (CoE) kit helps you get started with developing strategy for adoption and support.
+- [Environment Strategy](https://powerapps.microsoft.com/en-us/blog/establishing-an-environment-strategy-for-microsoft-power-platform/) - Establish an Environment Strategy for Power Platform
 - [Community Mentorship Program](https://techcommunity.microsoft.com/t5/community-mentors-program/community-mentors-program-faqs/m-p/170779) - Log into your app, select your favorite mentor and get connected.
 - [XrmToolBox](https://www.xrmtoolbox.com/) - An application that provides tons of tools to simplify management of your processes.
 - [Introducing Project Oakdale – low code data platform for Microsoft Teams](https://powerapps.microsoft.com/en-us/blog/introducing-project-oakdale-a-new-low-code-data-platform-for-microsoft-teams/) - Blog post from Charles Lamanna, *CVP of Low Code Application Platform*
+- [ALM with Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/) - Official MS guidance docs for ALM with Power Platform
+- [Power Platform Build Tools](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerPlatform-BuildTools) - Azure DevOps Pipeline tool to help with build and deployment tasks.
+- [Training lab: GitHub Power Platform Action](https://github.com/microsoft/powerplatform-actions-lab) - Learn how to use Power Platform Action for GitHub
+- [Pluralsight: Power Platfrom Fundamentals](https://app.pluralsight.com/paths/skills/microsoft-power-platform-fundamentals-pl-900) - Learn fundamentals of Power Platform on Pluralsight
+- [LinkedIn Learning: Power Platform](https://www.linkedin.com/learning/search?keywords=microsoft%20power%20platform) - List of all courses available on LinkedIn Learninig
+- [Fluent UI: Controls](https://developer.microsoft.com/en-us/fluentui#/controls/web) - List of controls created using Fluent UI.
+- [Fluent UI: Styles](https://developer.microsoft.com/en-us/fluentui#/styles) - List of sytles provided by Fluent UI.
 
 ## 🌎 Environment for learning Power Platform
 
@@ -100,7 +109,8 @@ Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums
 - [MS Documentation](https://docs.microsoft.com/powerapps/) - Offical Microsoft documentation for Power Apps
 - [Create your first canvas App](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/) - Learn how to create your first canvas apps
 - [Create your first model-driven App](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) - Learn how to create your first model-driven apps
-- [Training labs: App in a day](https://aka.ms/appinaday) - Download the training contents for creating apps
+- [Training lab: App in a day](https://aka.ms/appinaday) - Download the training contents for creating apps
+- [Training lab: Admin in a day](https://github.com/microsoft/powerapps-tools/tree/master/Administration/AdminInADay) - Offical lab training for Admins
 - [Sample Apps](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery) - Collection of all community built sample apps.
 <!-- markdown-link-check-disable-next-line -->
 - [Videos & Webniars](https://powerusers.microsoft.com/t5/Webinars-and-Video-Gallery/bd-p/VideoGallery) - Collection of community created videos & hosted webniars.
@@ -123,6 +133,9 @@ Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums
 
 #### PCF: Important Links, Tools & More
 
+- [Overview Docs](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/overview) - Get yourself familiarize wiht Power Apps Component Framework (PCF)
+- [Forums](https://aka.ms/PCFForum) - Official forums for PCF
+- [Community Resources](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/community-resources) - Links to all community resources for PCF
 - [PCF Gallery](https://pcf.gallery/) - PCF Gallery is a collection of controls created with the Power Apps Component Framework.
 - [PCF Builder for XrmToolBox](https://www.xrmtoolbox.com/plugins/Maverick.PCF.Builder/) - An XrmToolBox tool that provides a GUI for creating Code Components.
 - [PCF Builder for VS Code](https://marketplace.visualstudio.com/items?itemName=danish-naglekar.pcf-builder) - VS Code extension to help you execute Power Apps CLI commands with ease.
@@ -148,7 +161,7 @@ Register for Power Automate Forums [here](https://powerusers.microsoft.com/t5/Fo
 
 - [MS Documentation](https://docs.microsoft.com/flow/) - Offical Microsoft documentation for Power Automate
 - [Create your first flow](https://docs.microsoft.com/en-us/learn/paths/automate-process-power-automate/) - Learn how to create your first flow
-- [Training labs: Flow in a day](https://github.com/Power-Automate-in-a-day/Training-by-the-community) - Training provided by the community on Power Automate
+- [Training lab: Flow in a day](https://github.com/Power-Automate-in-a-day/Training-by-the-community) - Training provided by the community on Power Automate
 
 ---
 
@@ -192,7 +205,7 @@ Register for Power Virtual Agents Forums [here](https://powerusers.microsoft.com
 
 - [MS Documentation](https://docs.microsoft.com/power-virtual-agents/) - Offical Microsoft documentation for Power Virtual Agent
 - [Create your first bot](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-get-started) - Learn how to create your first bot
-- [Training labs: Bot in a day](https://aka.ms/PVAinaDay) - Training for creating your bots using Power Virtual Agent
+- [Training lab: Bot in a day](https://aka.ms/PVAinaDay) - Training for creating your bots using Power Virtual Agent
 
 ---
 
