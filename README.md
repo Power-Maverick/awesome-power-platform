@@ -1,5 +1,5 @@
 <!-- markdown-link-check-disable -->
-![Header](/images/header.jpg)
+![Header](/images/platform.png)
 
 # Power List
 
@@ -13,19 +13,26 @@
 
 - [Power List](#power-list)
   - [💬 General](#-general)
+    - [Sign-in Links](#sign-in-links)
+    - [Important Links, Tools & More](#important-links-tools--more)
   - [🌎 Environment for learning Power Platform](#-environment-for-learning-power-platform)
+  - [💪 Common Data Service](#-common-data-service)
+    - [Important Links, Tools & More](#important-links-tools--more-1)
   - [⚡ Power Apps](#-power-apps)
     - [Forums](#forums)
-    - [Important Links, Tools & More](#important-links-tools--more)
-    - [Power Apps Component Framework (PCF)](#power-apps-component-framework-pcf)
+    - [Important Links, Tools & More](#important-links-tools--more-2)
+    - [🚀 Power Apps Component Framework (PCF)](#-power-apps-component-framework-pcf)
       - [Installations](#installations)
       - [PCF: Important Links, Tools & More](#pcf-important-links-tools--more)
   - [🐱‍🏍 Power Automate](#-power-automate)
     - [Forums](#forums-1)
+    - [Important Links, Tools & More](#important-links-tools--more-3)
   - [🤳 Power BI](#-power-bi)
     - [Forums](#forums-2)
+    - [Important Links, Tools & More](#important-links-tools--more-4)
   - [🤖 Power Virtual Agents](#-power-virtual-agents)
     - [Forums](#forums-3)
+    - [Important Links, Tools & More](#important-links-tools--more-5)
   - [📰 Newsletters](#-newsletters)
   - [➕ Contribute](#-contribute)
   - [🐛 Found an issue](#-found-an-issue)
@@ -34,8 +41,20 @@
 
 ## 💬 General
 
+### Sign-in Links
+
+- [Power Apps](https://make.powerapps.com/) - Sign-in to Power Apps maker portal where you can create apps along with other things.
+- [Power Automate](https://flow.microsoft.com/) - Sign-in to Power Automate where you can create flows, business process and UI flows.
+- [Power Virtual Agent](https://powerva.microsoft.com/) - Sign-in to PVA where you can create and manage your bot.
+
+### Important Links, Tools & More
+
+- [Licensing Docs](https://docs.microsoft.com/en-us/microsoft-365/community/powerplatformlicensingforcitizendeveloper) - Understanding Power Platform Licensing.
+- [Power Platform Guidance Docs](https://aka.ms/PowerPlatformGuidance) - Offical MS guidance docs that gets you started on Power Platform
+- [Power Platform Training Materials](https://powerusers.microsoft.com/t5/News-Announcements/Power-Platform-Training-Materials/ba-p/342088) - Offical post that contains links to various training materials.
 - [Community Mentorship Program](https://techcommunity.microsoft.com/t5/community-mentors-program/community-mentors-program-faqs/m-p/170779) - Log into your app, select your favorite mentor and get connected.
-- [XrmToolBox](https://www.xrmtoolbox.com/) - An application that provides tons of tools to simply management of your processes.
+- [XrmToolBox](https://www.xrmtoolbox.com/) - An application that provides tons of tools to simplify management of your processes.
+- [Introducing Project Oakdale – low code data platform for Microsoft Teams](https://powerapps.microsoft.com/en-us/blog/introducing-project-oakdale-a-new-low-code-data-platform-for-microsoft-teams/) - Blog post from Charles Lamanna, *CVP of Low Code Application Platform*
 
 ## 🌎 Environment for learning Power Platform
 
@@ -53,6 +72,16 @@ Using the username and domain created for Microsoft 365 dev subscription, you ca
 
 Both Power Apps Plan Trial and Power Apps Community Plan are free, but are created for different purposes. Details [here](https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan#whats-the-difference-between-power-apps-plan-trial-and-power-apps-community-plan-and-which-one-should-i-sign-up-for).
 
+## 💪 Common Data Service
+
+Common Data Service lets you securely store and manage data that's used by business applications.
+
+### Important Links, Tools & More
+
+- [Overview: What is CDS?](https://aka.ms/cds-docs) - Understand the basics of Common Data Service.
+- [MS Docs - Common Data Service](https://docs.microsoft.com/common-data-service/) - Offical Microsoft documentation for Common Data Service (CDS)
+- [MS Docs - Connectors](https://docs.microsoft.com/connectors) - Offical Microsoft documentation for connectors
+
 ## ⚡ Power Apps
 
 Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs.
@@ -68,14 +97,22 @@ Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums
 
 ### Important Links, Tools & More
 
+- [MS Documentation](https://docs.microsoft.com/powerapps/) - Offical Microsoft documentation for Power Apps
+- [Create your first canvas App](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/) - Learn how to create your first canvas apps
+- [Create your first model-driven App](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) - Learn how to create your first model-driven apps
+- [Training labs: App in a day](https://aka.ms/appinaday) - Download the training contents for creating apps
 - [Sample Apps](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery) - Collection of all community built sample apps.
 <!-- markdown-link-check-disable-next-line -->
 - [Videos & Webniars](https://powerusers.microsoft.com/t5/Webinars-and-Video-Gallery/bd-p/VideoGallery) - Collection of community created videos & hosted webniars.
 - [Canvas Apps Components](https://powerusers.microsoft.com/t5/Canvas-Apps-Components-Samples/bd-p/ComponentsGallery) - Collection of canvas apps components that can be reused in your projects.
+- [Controls & Properties](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/reference-properties) - List of all controls and properties in Power Apps
+- [Formula References](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference) - List of all formulas in Power Apps
+- [Optimize canvas app performance](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/performance-tips) - List of things to perform to optimize the performance of canvas apps
 - [Training Courses - 365 Training](https://www.365.training/Courses/Category/powerapps) - All courses related to Power Apps provided by 365.training
 - [Training Cources - Shane Young](https://training.powerapps911.com/) - All courses related to Power Apps provided by Shane Young
+- [Comparison: Maker Portal vs Solution Explorer](https://linnzawwin.blogspot.com/2019/12/power-apps-feature-capability.html?m=1) - Comparison between new maker portal and old solution explorer
 
-### Power Apps Component Framework (PCF)
+### 🚀 Power Apps Component Framework (PCF)
 
 #### Installations
 
@@ -107,6 +144,12 @@ Register for Power Automate Forums [here](https://powerusers.microsoft.com/t5/Fo
 - [Using Flows](https://powerusers.microsoft.com/t5/Using-Flows/bd-p/UsingFlows)
 - [AI Builder](https://powerusers.microsoft.com/t5/AI-Builder/bd-p/AIBuilder)
 
+### Important Links, Tools & More
+
+- [MS Documentation](https://docs.microsoft.com/flow/) - Offical Microsoft documentation for Power Automate
+- [Create your first flow](https://docs.microsoft.com/en-us/learn/paths/automate-process-power-automate/) - Learn how to create your first flow
+- [Training labs: Flow in a day](https://github.com/Power-Automate-in-a-day/Training-by-the-community) - Training provided by the community on Power Automate
+
 ---
 
 ## 🤳 Power BI
@@ -124,11 +167,16 @@ Register for Power BI Forums [here](https://community.powerbi.com/).
 - [Extend Power Bi - Developer](https://community.powerbi.com/t5/Power-Query/bd-p/power-bi-services)
 - [DAX Commands](https://community.powerbi.com/t5/DAX-Commands-and-Tips/bd-p/DAXCommands)
 
+### Important Links, Tools & More
+
+- [MS Documentation](https://docs.microsoft.com/power-bi/) - Offical Microsoft documentation for Power Bi
+- [Create your first report](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - Learn how to create your first report
+
 ---
 
 ## 🤖 Power Virtual Agents
 
-Power Virtual Agents allows you to easily create your bot, and embed it into your website with just a few clicks.
+Power Virtual Agents allows you to easily create your bot, and embed it into your website with just a few clicks. Also, known as **PVA**.
 
 ### Forums
 
@@ -140,11 +188,17 @@ Register for Power Virtual Agents Forums [here](https://powerusers.microsoft.com
 - [Channel Management](https://powerusers.microsoft.com/t5/Publish-Channel-Management/bd-p/pva_publish)
 - [Bot Extensibility](https://powerusers.microsoft.com/t5/Bot-Extensibility/bd-p/pva_pro-dev-bot)
 
+### Important Links, Tools & More
+
+- [MS Documentation](https://docs.microsoft.com/power-virtual-agents/) - Offical Microsoft documentation for Power Virtual Agent
+- [Create your first bot](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-get-started) - Learn how to create your first bot
+- [Training labs: Bot in a day](https://aka.ms/PVAinaDay) - Training for creating your bots using Power Virtual Agent
+
 ---
 
 ## 📰 Newsletters
 
-- [Dynamics Weekly](https://www.dynamicsweekly.com/) - Weekly emails with overall list of articles and resources
+- [Dynamics Weekly](https://www.dynamicsweekly.com/) (*Discontinued*) - Weekly emails with overall list of articles and resources
 - [Power Platform Developers Weekly](https://www.powerplatformdevelopersweekly.com/) - Weekly emails with list of articles and resources focused for Developers
 
 ---
