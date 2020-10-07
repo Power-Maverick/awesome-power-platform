@@ -7,7 +7,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Check Links](https://github.com/Power-Maverick/awesome-power-platform/workflows/Check%20Links/badge.svg?branch=master)
+![Check Links](https://github.com/Power-Maverick/awesome-power-platform/workflows/Check%20Links/badge.svg)
 
 <!-- markdown-link-check-enable -->
 
