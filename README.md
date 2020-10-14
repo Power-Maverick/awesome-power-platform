@@ -75,7 +75,7 @@ With this you can sign up for the trial using your personal email address, and y
 
 **Option 2 - Power Apps Community Plan**
 
-Using the username and domain created for Microsoft 365 dev subscription, you can signup for [Power Apps Community Plan](https://signup.microsoft.com/signup?sku=flow_free&origin=powerappscommunity&ru=https://web.powerapps.com/community/signup) that gives you most of the features; for more details on which features are included see details [here](https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan#which-features-are-included-in-the-power-apps-community-plan).
+Using the username and domain created for Microsoft 365 dev subscription, you can signup for [Power Apps Community Plan](https://signup.microsoft.com/signup?sku=flow_free&origin=powerappscommunity&ru=https://web.powerapps.com/community/signup) that gives you most of the features; for more details on which features are included see details [here](https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan#which-features-are-included-in-the-power-apps-community-plan). Step-by-step process of creating the Developer Environment please read [this blog post](https://powermaverick.dev/2020/01/23/create-power-apps-developer-environment/).
 
 **Difference between the two options**
 
