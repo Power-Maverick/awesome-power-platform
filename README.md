@@ -14,6 +14,7 @@
 - [Power List](#power-list)
   - [💬 General](#-general)
     - [Sign-in Links](#sign-in-links)
+    - [FAQs](#FAQs)
     - [Important Links, Tools & More](#important-links-tools--more)
   - [🌎 Environment for learning Power Platform](#-environment-for-learning-power-platform)
   - [💪 Common Data Service](#-common-data-service)
@@ -46,6 +47,11 @@
 - [Power Apps](https://make.powerapps.com/) - Sign-in to Power Apps maker portal where you can create apps along with other things.
 - [Power Automate](https://flow.microsoft.com/) - Sign-in to Power Automate where you can create flows, business process and UI flows.
 - [Power Virtual Agent](https://powerva.microsoft.com/) - Sign-in to PVA where you can create and manage your bot.
+
+### FAQs
+
+- [Licensing FAQ](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq)
+- [Oakdale FAQ](https://docs.microsoft.com/en-us/powerapps/teams/data-platform-faqs)
 
 ### Important Links, Tools & More
 
