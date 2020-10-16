@@ -14,7 +14,7 @@
 - [Power List](#power-list)
   - [💬 General](#-general)
     - [Sign-in Links](#sign-in-links)
-    - [FAQs](#FAQs)
+    - [FAQs](#faqs)
     - [Important Links, Tools & More](#important-links-tools--more)
   - [🌎 Environment for learning Power Platform](#-environment-for-learning-power-platform)
   - [💪 Common Data Service](#-common-data-service)
@@ -168,7 +168,9 @@ Register for Power Automate Forums [here](https://powerusers.microsoft.com/t5/Fo
 - [MS Documentation](https://docs.microsoft.com/flow/) - Offical Microsoft documentation for Power Automate
 - [Create your first flow](https://docs.microsoft.com/en-us/learn/paths/automate-process-power-automate/) - Learn how to create your first flow
 - [Training lab: Flow in a day](https://github.com/Power-Automate-in-a-day/Training-by-the-community) - Training provided by the community on Power Automate
+- [Power Studio app](https://powerstudio.app/about) - It has free and paid version that provides advanced functions beyond Power Automate flow portal
 - [Common Data Service (current environment) Cheat Sheet](https://www.danikahil.com/2020/09/common-data-service-current-environment.html) - Cheat sheet for various triggers and actions of Common Data Service (current environment) connector
+- [Power Accelerate app](https://www.poweraccelerate.com/) - Create entities and apps using data structure in Excel, SQL or even from images/screenshots.
 
 ---
 
