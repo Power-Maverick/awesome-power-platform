@@ -5,8 +5,6 @@
 
 > A collection of awesome things regarding the Power Platform ecosystem.
 
-
-
 ![Check Links](https://github.com/Power-Maverick/awesome-power-platform/workflows/Check%20Links/badge.svg)
 
 <!-- markdown-link-check-enable -->
