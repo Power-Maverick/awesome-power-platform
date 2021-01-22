@@ -1,11 +1,9 @@
 <!-- markdown-link-check-disable -->
 ![Header](/images/platform.png)
 
-# Power List
+# Microsoft Power Platform [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collection of awesome things regarding the Power Platform ecosystem.
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Check Links](https://github.com/Power-Maverick/awesome-power-platform/workflows/Check%20Links/badge.svg)
 
