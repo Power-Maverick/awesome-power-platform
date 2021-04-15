@@ -113,6 +113,7 @@ Register for Power Apps Forums [here](https://powerusers.microsoft.com/t5/Forums
 - [MS Documentation](https://docs.microsoft.com/powerapps/) - Offical Microsoft documentation for Power Apps
 - [Create your first canvas App](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/) - Learn how to create your first canvas apps
 - [Create your first model-driven App](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes/) - Learn how to create your first model-driven apps
+- [Getting started with Power Apps Portals](https://docs.microsoft.com/en-us/learn/paths/get-started-power-apps-portals/) - Leartn how to get started with Power Apps Portals
 - [Training lab: App in a day](https://aka.ms/appinaday) - Download the training contents for creating apps
 - [Training lab: Admin in a day](https://github.com/microsoft/powerapps-tools/tree/master/Administration/AdminInADay) - Offical lab training for Admins
 - [Sample Apps](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery) - Collection of all community built sample apps.
