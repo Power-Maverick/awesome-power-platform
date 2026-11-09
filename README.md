@@ -63,6 +63,7 @@
 - [Introducing Project Oakdale – low code data platform for Microsoft Teams](https://powerapps.microsoft.com/en-us/blog/introducing-project-oakdale-a-new-low-code-data-platform-for-microsoft-teams/) - Blog post from Charles Lamanna, *CVP of Low Code Application Platform*
 - [ALM with Power Platform](https://docs.microsoft.com/en-us/power-platform/alm/) - Official MS guidance docs for ALM with Power Platform
 - [Power Platform Build Tools](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerPlatform-BuildTools) - Azure DevOps Pipeline tool to help with build and deployment tasks.
+- [PageUtil Power Platform Deployment Settings Checker](https://pageutil.com/power-platform-deployment-settings-checker/) - Compare solution ZIP declarations with deployment settings locally to find missing connection references, placeholder IDs and unconfigured environment variables; cannot verify live authentication or permissions.
 - [Training lab: GitHub Power Platform Action](https://github.com/microsoft/powerplatform-actions-lab) - Learn how to use Power Platform Action for GitHub
 - [Pluralsight: Power Platfrom Fundamentals](https://app.pluralsight.com/paths/skills/microsoft-power-platform-fundamentals-pl-900) - Learn fundamentals of Power Platform on Pluralsight
 - [LinkedIn Learning: Power Platform](https://www.linkedin.com/learning/search?keywords=microsoft%20power%20platform) - List of all courses available on LinkedIn Learninig
