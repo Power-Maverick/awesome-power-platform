@@ -214,6 +214,7 @@ Register for Power Virtual Agents Forums [here](https://powerusers.microsoft.com
 - [MS Documentation](https://docs.microsoft.com/power-virtual-agents/) - Offical Microsoft documentation for Power Virtual Agent
 - [Create your first bot](https://docs.microsoft.com/en-us/power-virtual-agents/fundamentals-get-started) - Learn how to create your first bot
 - [Training lab: Bot in a day](https://aka.ms/PVAinaDay) - Training for creating your bots using Power Virtual Agent
+- [Copilot Studio agent to production, step by step](https://zakariakhchiche.github.io/mettre-agent-copilot-studio-en-production/) - Managed environments, solutions, pipelines, evaluation gate, DLP and monitoring (in French).
 
 ---
 
